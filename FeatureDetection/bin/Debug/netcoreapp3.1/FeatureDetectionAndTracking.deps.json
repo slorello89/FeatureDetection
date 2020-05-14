@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FeatureDetectionAndTracking/1.0.0": {
+        "dependencies": {
+          "Emgu.CV.runtime.windows": "4.2.0.3662"
+        },
+        "runtime": {
+          "FeatureDetectionAndTracking.dll": {}
+        }
+      },
+      "Emgu.CV/4.2.0.3662": {
+        "runtime": {
+          "lib/netstandard2.0/Emgu.CV.World.NetStandard.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Emgu.CV.runtime.windows/4.2.0.3662": {
+        "dependencies": {
+          "Emgu.CV": "4.2.0.3662"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeatureDetectionAndTracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emgu.CV/4.2.0.3662": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9cMx6a2t6d+rui5rZkb9LFStS8cTm2Fh6tOvig7y4+yPD5sW8bKQwBO4eognsezOzVmwf7f2/LvvMqo/rYTiA==",
+      "path": "emgu.cv/4.2.0.3662",
+      "hashPath": "emgu.cv.4.2.0.3662.nupkg.sha512"
+    },
+    "Emgu.CV.runtime.windows/4.2.0.3662": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DT8v08/ZMW+ll7Lvlf2qci18XoffrZUfR1lrdTWhdxjtmFMdOmdclUgfR29R2Sj6vdxxvh+kOtmf4oCn/Rsu+Q==",
+      "path": "emgu.cv.runtime.windows/4.2.0.3662",
+      "hashPath": "emgu.cv.runtime.windows.4.2.0.3662.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdckBk9+TmFxN6VznlcB+aHN4Ff9gZqmkrVDydNC4DruJPRvkat/IA9HpW3q4tFULWFysY6sqyyYgetNetVc8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slore\\source\\repos\\FeatureDetection\\FeatureDetection\\FeatureDetectionAndTracking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slore\\.nuget\\packages\\emgu.cv\\4.2.0.3662\\emgu.cv.4.2.0.3662.nupkg.sha512",
+    "C:\\Users\\slore\\.nuget\\packages\\emgu.cv.runtime.windows\\4.2.0.3662\\emgu.cv.runtime.windows.4.2.0.3662.nupkg.sha512"
+  ],
+  "logs": []
+}
